@@ -17,7 +17,7 @@ export default function Home() {
               Grade Your Jewelry
             </h1>
             <p className="mt-4 max-w-lg text-lg text-muted-foreground md:text-xl">
-              Welcome to <span className="font-bold text-foreground">FileFlow</span>. Seamlessly organize your files by letting our AI generate smart, relevant metadata for you.
+              Welcome to <span className="font-bold text-foreground">Jewel Grade</span>. Grade your Jewelry through computer vision and find the original or similar products.
             </p>
             <Button asChild size="lg" className="mt-8">
               <Link href="/upload">

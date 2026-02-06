@@ -16,8 +16,8 @@ const fontHeadline = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: 'FileFlow',
-  description: 'Seamlessly organize your files with AI-powered metadata.',
+  title: 'Jewel Grade',
+  description: 'Grade your Jewelry through computer vision and find the original or similar products.',
 };
 
 export default function RootLayout({

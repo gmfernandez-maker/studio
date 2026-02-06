@@ -8,7 +8,7 @@ export function Header() {
         <Link href="/" className="flex items-center gap-3">
           <Logo className="h-8 w-8" />
           <span className="text-2xl font-bold text-foreground font-headline">
-            FileFlow
+            Jewel Grade
           </span>
         </Link>
       </div>
