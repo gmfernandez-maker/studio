@@ -14,7 +14,7 @@ export default function Home() {
         <div className="grid grid-cols-1 items-center gap-8 md:grid-cols-2 lg:gap-16">
           <div className="flex flex-col items-start text-left">
             <h1 className="font-headline text-4xl font-bold tracking-tight text-accent md:text-5xl lg:text-6xl">
-              Unlock Your Content's Potential.
+              grade your jewelry
             </h1>
             <p className="mt-4 max-w-lg text-lg text-muted-foreground md:text-xl">
               Welcome to <span className="font-bold text-foreground">FileFlow</span>. Seamlessly organize your files by letting our AI generate smart, relevant metadata for you.
