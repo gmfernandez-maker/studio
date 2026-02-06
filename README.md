@@ -1,5 +1,4 @@
-# Firebase Studio
+# Gold Jewelry Grader
 
-This is a NextJS starter in Firebase Studio.
+This project is a repository for the 30% of Pixel Pioneers thesis codebase
 
-To get started, take a look at src/app/page.tsx.
